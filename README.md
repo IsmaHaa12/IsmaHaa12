@@ -11,7 +11,7 @@ I enjoy learning new technologies, improving code quality, and designing simple 
 Feel free to explore my repositories, open an issue, or reach out if you want to collaborate. 🚀
 
     </td>
-    <td> <img src="https://github.com/IsmaHaa12/IsmaHaa12/blob/main/kanade [9BF40C9].png?raw=true" alt="Profile" width="150" />
+    <td> <img src="kanade [9BF40C9].png?raw=true" alt="Profile" width="150" />
     </td>
   </tr>
 </table>
