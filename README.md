@@ -11,7 +11,7 @@ I enjoy learning new technologies, improving code quality, and designing simple 
 Feel free to explore my repositories, open an issue, or reach out if you want to collaborate. 🚀
 
     </td>
-    <td>     <imgsrc=https://cdn.discordapp.com/attachments/1091296534370471997/1444252203471605821/FB_IMG_1764406927053.jpg?ex=6940776e&is=693f25ee&hm=da5587473ecff65d08743a2c8eeab6249b1e21cb0faad5d764bf54ef17736190&" alt="Profile" width="150" />
+    <td> <img src="https://github.com/IsmaHaa12/IsmaHaa12/blob/main/kanade [9BF40C9].png?raw=true" alt="Profile" width="150" />
     </td>
   </tr>
 </table>
