@@ -12,7 +12,7 @@ Feel free to explore my repositories, open an issue, or reach out if you want to
 
     </td>
     <td>
-      <img src="https://drive.google.com/file/d/1mzCATGOqpuvDvhet0LB5PGoRBiwxze7S/view?usp=sharing" alt="Profile" width="150" />
+      <img src="[https://drive.google.com/file/d/1mzCATGOqpuvDvhet0LB5PGoRBiwxze7S/view?usp=sharing](https://discord.com/channels/1185377793148715028/1185377794012758078/1449896870825693244)" alt="Profile" width="150" />
     </td>
   </tr>
 </table>
