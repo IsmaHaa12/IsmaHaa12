@@ -12,8 +12,7 @@ Feel free to explore my repositories, open an issue, or reach out if you want to
 
     </td>
     <td>
-      <img src="<img src="https://raw.githubusercontent.com/IsmaHaa12/IsmaHaa12/main/kanade%20%5B9BF40C9%5D.png" alt="Profile" width="150" />
-" alt="Profile" width="150" />
+     <img src="https://github.com/IsmaHaa12/IsmaHaa12/raw/main/kanade%20%5B9BF40C9%5D.png" alt="Profile" width="150" />
     </td>
   </tr>
 </table>
