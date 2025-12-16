@@ -12,7 +12,7 @@ Feel free to explore my repositories, open an issue, or reach out if you want to
 
     </td>
     <td>
-     <img src="https://drive.google.com/uc?export=view&id=1mzCATGOqpuvDvhet0LB5PGoRBiwxze7S" alt="Profile" width="150" />
+     <img src="https://tr.rbxcdn.com/180DAY-991b8d01ec09f4202a71633dafa8f61f/420/420/Image/Webp/noFilter" alt="Profile" width="150" />
     </td>
   </tr>
 </table>
