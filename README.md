@@ -8,7 +8,7 @@ I'm IsmaHaa, a Mobile & Web Developer who loves building clean and useful applic
 
 I enjoy learning new technologies, improving code quality, and designing simple but elegant interfaces. This GitHub is where I ship my ideas, from small prototypes to more serious projects.
 
-Feel free to explore my repositories, open an issue, or reach out if you want to collaborate. 🚀
+Feel free to explore my repositories, open an issue, or reach out if you want to collaborate. 
   </tr>
 </table>
 
