@@ -12,6 +12,5 @@ Feel free to explore my repositories, open an issue, or reach out if you want to
   </tr>
 </table>
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaHaa12&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsmaHaa12&show_icons=true&theme=radical)
