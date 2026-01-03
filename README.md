@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-Hi there 👋
+Hi there👋
 
 I'm IsmaHaa, a Mobile & Web Developer who loves building clean and useful applications. Most of my projects are experiments, college tasks, and personal ideas built with React, React Native, and modern JavaScript tools.
 
